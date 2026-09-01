@@ -1,1 +1,4 @@
 1|Cow|Goat|Holstein|Male|2024-01-10|350.50|Healthy|0
+2|0105|COW|BIDASHI|MALE|2030-07-31|87.00|pregnant|0
+3|10SP|MURGI|BOILAR|Female|2021-10-28|2.50|Vaccinated|0
+4|1102|GOAT|H4|Male|2019-12-22|25.00|Treatment|0
